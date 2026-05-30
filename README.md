@@ -60,32 +60,7 @@ qa-ecommerce-automation/
 - Mobile view.
 - Tablet view.
 
-## How to Run
 
-### 1. Install dependencies
-```bash
-npm install
-```
-
-### 2. Install Playwright browsers
-```bash
-npx playwright install
-```
-
-### 3. Run all tests
-```bash
-npx playwright test
-```
-
-### 4. Run tests in headed mode
-```bash
-npx playwright test --headed
-```
-
-### 5. Open HTML report
-```bash
-npx playwright show-report
-```
 
 ## CI/CD
 
